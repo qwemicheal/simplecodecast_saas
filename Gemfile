@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.0'
 # use bootstrap library
 gem 'bootstrap-sass', '3.3.1'
-
+gem 'devise', '3.4.1'
 
 # use font awsome to deal with font
 gem 'font-awesome-sass'
